@@ -1,8 +1,0 @@
-# GPT-6 Sol — Argolink
-
-- Model: gpt-6-sol
-- Intent: application workflows and structured tool use
-- Model page: https://argolink.io/gh-llm-application-workflows
-- API docs: https://argolink.io/gh-unified-api-docs
-- Examples: examples/request.sh, examples/client.py
-- Contract: docs/model-contract.md
